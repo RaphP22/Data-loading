@@ -8,8 +8,17 @@ editor: visual
 ## 
 
 ```{r}
+library(here)
+library(readr)
+here::i_am("projet_test.Rproj")
 
-1+1 = 2 
-print("2")
+
+
+
+```
+
+```{r}
+print("ehhh oh")
+
 
 ```
