@@ -1,0 +1,15 @@
+---
+title: "projet_test"
+author: "raphael paillard"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+
+1+1 = 2 
+print("2")
+
+```
